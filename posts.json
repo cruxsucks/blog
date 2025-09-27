@@ -1,11 +1,27 @@
 {
   "posts": [
     {
-      "id": "welcome-to-cruxsux",
-      "title": "Welcome to CruxSux",
-      "date": "2025-09-28",
-      "excerpt": "This is the first post on CruxSux. Here's where the journey begins...",
-      "filename": "welcome-to-cruxsux.md"
+      "id": "lisa-guy",
+      "title": "Lisa Guy: Rage Bait or Real Scandal?",
+      "date": "2025-09-27",
+      "excerpt": "Crux framed councillor Lisa Guy at the centre of a ‘conflict of interest’ storm over QLDC’s water CCO. The record suggests a modest, lawful $8k advisory contract — not the $1B scandal the headlines imply.",
+      "filename": "Lisa-Guy.md"
+    },
+
+    {
+      "id": "queenstown-water-vote-alternative-narrative",
+      "title": "Queenstown's Water Vote: What the Headlines Missed",
+      "date": "2025-09-27",
+      "excerpt": "Crux framed the council’s water decision as scandal. Here’s a calmer read: statutory obligations, infrastructure realities, and trade-offs that rarely survive a rage-bait headline.",
+      "filename": "queenstown-water-vote-alternative-narrative.md"
+    },
+
+    {
+      "id": "peter-newport-journalism-or-opinion",
+      "title": "Peter Newport: Journalism or Opinion?",
+      "date": "2025-09-27",
+      "excerpt": "When Peter Newport launched Crux in 2018, he promised fearless investigative journalism. Six years on, his track record tells another story — one of sensational headlines, blurred boundaries between fact and opinion, and repeated brushes with the New Zealand Media Council.",
+      "filename": "peter-newport-journalism-or-opinion.md"
     }
   ]
 }
