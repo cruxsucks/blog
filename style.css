@@ -38,6 +38,10 @@ header h1 {
     color: #2c3e50;
 }
 
+.red-x {
+    color: #e74c3c;
+}
+
 nav ul {
     display: flex;
     list-style: none;
@@ -105,6 +109,52 @@ h2 {
 }
 
 .read-more:hover {
+    text-decoration: underline;
+}
+
+.post-content {
+    line-height: 1.7;
+}
+
+.post-content h1 {
+    font-size: 1.8rem;
+    margin: 1.5rem 0 1rem 0;
+    color: #2c3e50;
+}
+
+.post-content h2 {
+    font-size: 1.4rem;
+    margin: 1.5rem 0 1rem 0;
+    color: #2c3e50;
+    border-bottom: 1px solid #e9ecef;
+    padding-bottom: 0.5rem;
+}
+
+.post-content h3 {
+    font-size: 1.2rem;
+    margin: 1.5rem 0 1rem 0;
+    color: #2c3e50;
+}
+
+.post-content p {
+    margin-bottom: 1rem;
+}
+
+.post-content ul {
+    margin: 1rem 0;
+    padding-left: 2rem;
+}
+
+.post-content li {
+    margin-bottom: 0.5rem;
+}
+
+.post-content a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.post-content a:hover {
     text-decoration: underline;
 }
 

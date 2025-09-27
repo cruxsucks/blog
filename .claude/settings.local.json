@@ -1,7 +1,14 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git config:*)"
+      "Bash(git config:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(gh:*)",
+      "Bash(echo $PATH)",
+      "Bash(git remote set-url:*)",
+      "WebFetch(domain:cruxsucks.github.io)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []
