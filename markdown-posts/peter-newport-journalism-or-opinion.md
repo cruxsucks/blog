@@ -6,12 +6,43 @@ When Peter Newport launched Crux in 2018, he promised fearless investigative jou
 
 Crux has faced multiple Media Council complaints, several of them upheld:
 
-- **Andrew Tipene v Crux (2022)** — Upheld for inaccuracy and misleading headlines.
-- **Queenstown Airport Corp v Crux (2020)** — Upheld for presenting opinion as fact.
-- **QLDC v Crux (2022)** — Not upheld, but only because the piece was treated as "opinion/analysis."
-- **Other QLDC complaints (2020)** — Mixed outcomes, with fairness again questioned.
 
-The pattern is clear: when Newport's work is tested against standards of factual accuracy, complaints are upheld. When his articles are shielded as "opinion," they survive.
+- **QLDC v Crux (2020)** Case 2891—.
+    Upheld complaints under Principle 1 (accuracy, fairness and balance)
+    Upheld complaints under Principle 4 (comment and fact)
+    The Media Council writes:
+    - *Newport himself says Crux is “consistently opinionated in favour of the community”*
+    - *this article presents as a news story and yet opinion intrudes on multiple occasions. Readers will be perplexed as to whether this article is a work of fact or comment; it reads as a collision of both without clear labelling.*
+
+- **Queenstown Airport Corp v Crux (2020)** Case 2940 
+    Upheld Three complaints under Principle 1 (accuracy, fairness and balance)
+    Upheld Two complaints under Principle 4 (comment and fact)
+    Upheld Two complaints under Principle 6 (headlines and captions)
+    The Media Council writes *Crux ... needs to apply the standards of ethical journalism* for a specific reason. 
+
+- **JIMMY CARLING AGAINST CRUX (2020)** Case 2895
+
+*Having said that, the article overall is a mix of comment and fact that blurs the line between the two...As noted in our previous ruling regarding Crux, if it fails to distinguish between the two it will continue to be in jeopardy whenever its articles are referred to the Council.*
+
+*The complaint is far from frivolous and should give Crux pause for thought in how it conducts itself online and distinguishes between fact and comment. The Council considered upholding the complaint due to the amount of opinion liberally sprinkled through a story that was presented as news. If Crux wants to keep writing stories like these using first person narrative and the writer's opinions, they would do better to clearly identify them to readers as opinion, as per Principle 4. We strongly suggest Crux take greater care in the future.*
+
+*Put together, the article, Facebook exchange and phone call do not reflect well on Crux*
+
+- **Jendi Paterson v Crux (2021)** case 3012
+While the compaint was not upheld, The Media Council was critical of Crux: 
+*As we have said in some of those past rulings... Crux’s reporting has repeatedly crossed the line, especially in its failure to separate fact and comment.*
+*Most concerning is Crux’s inaccurate reporting... It seems Crux made assumptions, which is another example of the sometimes sloppy reporting by Crux.*
+
+- **QUEENSTOWN LAKES DISTRICT COUNCIL AGAINST CRUX PUBLISHING** Case 3338
+
+*A clear distinction should be drawn between factual information and comment or opinion. An article that is essentially comment or opinion should be clearly presented as such.*
+
+- **Andrew Tipene v Crux (2022)** Case 3356 — .
+    Upheld complaints under Principle 1 (accuracy, fairness and balance)
+    Upheld complaints under Principle 6 (headlines and captions)
+    The Media Council again writes *as we have previously noted... Crux must ensure that it meets journalistic standards.* for a specific reason.
+
+The pattern is clear: when Newport's work is tested against standards of factual accuracy, complaints are upheld. When his articles are shielded as "opinion," they survive. The Media council are repeately warning Crux to meet ethical journalistic standards.  
 
 ## Trying to silence rivals
 
@@ -26,7 +57,7 @@ It was, in effect, an attempt to shut down a rival outlet for challenging his fr
 
 In late 2024, Newport moved Crux behind a paywall. His income now depends on subscriptions and clicks. Every provocative headline that draws outrage directly translates into revenue.
 
-This is not a small shift. Crux already had a history of complaints about misleading headlines. Now Crux is financially rewarded for stoking division. Controversy has become his business model.
+This is not a small shift. Crux already had a history of complaints about misleading headlines. Now Crux is financially rewarded for stoking division. Controversy is the business model.
 
 ## Readers, beware
 
@@ -37,8 +68,6 @@ Self reflect, if you angry or outraged when you read Crux, then please learn mor
 ## The verdict
 
 Peter Newport continues to style himself as an investigative journalist. But investigative reporting requires rigorous fact-checking, fairness, and a clear distinction between fact and opinion. Newport's record shows repeated failures on those measures, rescued only when his work is categorised as opinion. His own complaint against ODT collapsed under scrutiny. And with a paywall in place, his incentive is to produce headlines that spark outrage, not balance.
-
-The reality is simple: Newport is not an investigative journalist. He is an opinion writer, financially dependent on controversy. Readers should treat Crux accordingly — as commentary wrapped in sensational packaging, not the rigorous journalism it claims to be.
 
 ## Newport's Media Council Record
 
