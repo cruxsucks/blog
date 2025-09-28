@@ -175,4 +175,12 @@ footer {
     nav ul {
         gap: 1rem;
     }
+
+    /* Make post cards full-width and reduce inner padding on mobile */
+    #posts .post {
+        margin-left: -20px;
+        margin-right: -20px;
+        padding: 1.25rem;
+        border-radius: 0;
+    }
 }
