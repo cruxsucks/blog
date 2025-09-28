@@ -7,16 +7,16 @@ When Peter Newport launched Crux in 2018, he promised fearless investigative jou
 Crux has faced multiple Media Council complaints, with muliple breach of journalistic principals upheld:
 
 - **QLDC v Crux (2020)** — Case 2891
-- Principle 1 (accuracy, fairness and balance) Upheld
-- Principle 4 (comment and fact) Upheld
+- Principle 1 (accuracy, fairness and balance) **complaint upheld**
+- Principle 4 (comment and fact) **complaint upheld**
 - The Media Council wrote:
 - *Newport himself says Crux is "consistently opinionated in favour of the community".*
 - *This article presents as a news story, yet opinion intrudes on multiple occasions. Readers will be perplexed as to whether this article is a work of fact or comment; it reads as a collision of both without clear labelling.*
 
 - **Queenstown Airport Corporation v Crux (2020)** — Case 2940
 - Principle 1 (accuracy, fairness and balance)  **3 complaints upheld**
-- Principle 4 (comment and fact)  **two complaints upheld**
-- Principle 6 (headlines and captions) **two complaints upheld** 
+- Principle 4 (comment and fact)  **2 complaints upheld**
+- Principle 6 (headlines and captions) **2 complaints upheld** 
 - The Media Council wrote: *Crux ... needs to apply the standards of ethical journalism.*
 
 - **Jimmy Carling v Crux (2020)** — Case 2895
@@ -34,8 +34,8 @@ The Media Council wrote:
 - *A clear distinction should be drawn between factual information and comment or opinion. An article that is essentially comment or opinion should be clearly presented as such.*
 
 - **Andrew Tipene v Crux (2022)** — Case 3356
-- Upheld complaints under Principle 1 (accuracy, fairness and balance)
-- Upheld complaints under Principle 6 (headlines and captions)
+- Principle 1 (accuracy, fairness and balance) **complaint upheld**
+- Principle 6 (headlines and captions) **complaint upheld**
 - The Media Council again wrote: *as we have previously noted... Crux must ensure that it meets journalistic standards.*
 
 The pattern is clear: when Newport's work is tested against standards of factual accuracy, complaints are upheld. When his articles are shielded as "opinion," they survive. The Media Council has repeatedly warned Crux to meet ethical journalistic standards. To give context:
@@ -64,13 +64,3 @@ Self reflect, if you angry or outraged when you read Crux, then please learn mor
 ## The verdict
 
 Peter Newport continues to style himself as an investigative journalist. But investigative reporting requires rigorous fact-checking, fairness, and a clear distinction between fact and opinion. Newport's record shows repeated failures on those measures, rescued only when his work is categorised as opinion. His own complaint against ODT collapsed under scrutiny. And with a paywall in place, his incentive is to produce headlines that spark outrage, not balance.
-
-## Newport's Media Council Record
-
-- **2022** – Tipene v Crux → Upheld (inaccuracy, misleading headline)
-- **2020** – QAC v Crux → Upheld (opinion as fact)
-- **2022** – QLDC v Crux → Not upheld (treated as opinion)
-- **2020** – QLDC v Crux → Mixed outcome
-- **2025** – Newport v ODT → Rejected outright — attempt to silence a rival failed
-
-**Pattern**: loses when tested for accuracy, survives under opinion, fails when attacking others.
