@@ -10,35 +10,36 @@ Crux has faced multiple Media Council complaints, with muliple breach of journal
 - Principle 1 (accuracy, fairness and balance) **complaint upheld**
 - Principle 4 (comment and fact) **complaint upheld**
 - The Media Council wrote:
-- *Newport himself says Crux is "consistently opinionated in favour of the community".*
-- *This article presents as a news story, yet opinion intrudes on multiple occasions. Readers will be perplexed as to whether this article is a work of fact or comment; it reads as a collision of both without clear labelling.*
+- *'Newport himself says Crux is "consistently opinionated in favour of the community".'*
+- *'This article presents as a news story, yet opinion intrudes on multiple occasions. Readers will be perplexed as to whether this article is a work of fact or comment; it reads as a collision of both without clear labelling.'*
+
+- **Jimmy Carling v Crux (2020)** — Case 2895
+The Media Council wrote:
+- '*Having said that, the article overall is a mix of comment and fact that blurs the line between the two... As noted in our previous ruling regarding Crux, if it fails to distinguish between the two it will continue to be in jeopardy whenever its articles are referred to the Council.*'
+- '*The complaint is far from frivolous and should give Crux pause for thought in how it conducts itself online and distinguishes between fact and comment. The Council considered upholding the complaint due to the amount of opinion liberally sprinkled through a story that was presented as news. If Crux wants to keep writing stories like these using first-person narrative and the writer's opinions, they would do better to clearly identify them to readers as opinion, as per Principle 4. We strongly suggest Crux take greater care in the future.*'
+- '*Put together, the article, Facebook exchange and phone call do not reflect well on Crux.*'
 
 - **Queenstown Airport Corporation v Crux (2020)** — Case 2940
 - Principle 1 (accuracy, fairness and balance)  **3 complaints upheld**
 - Principle 4 (comment and fact)  **2 complaints upheld**
 - Principle 6 (headlines and captions) **2 complaints upheld** 
-- The Media Council wrote: *Crux ... needs to apply the standards of ethical journalism.*
+- The Media Council wrote: '*Crux ... needs to apply the standards of ethical journalism.*'
 
-- **Jimmy Carling v Crux (2020)** — Case 2895
-The Media Council wrote:
-- *Having said that, the article overall is a mix of comment and fact that blurs the line between the two... As noted in our previous ruling regarding Crux, if it fails to distinguish between the two it will continue to be in jeopardy whenever its articles are referred to the Council.*
-- *The complaint is far from frivolous and should give Crux pause for thought in how it conducts itself online and distinguishes between fact and comment. The Council considered upholding the complaint due to the amount of opinion liberally sprinkled through a story that was presented as news. If Crux wants to keep writing stories like these using first-person narrative and the writer's opinions, they would do better to clearly identify them to readers as opinion, as per Principle 4. We strongly suggest Crux take greater care in the future.*
-- *Put together, the article, Facebook exchange and phone call do not reflect well on Crux.*
 
 - **Jendi Paterson v Crux (2021)** — Case 3012
 - While the complaint was not upheld, the Media Council was critical of Crux:
-- *As we have said in some of those past rulings... Crux’s reporting has repeatedly crossed the line, especially in its failure to separate fact and comment.*
-- *Most concerning is Crux’s inaccurate reporting... It seems Crux made assumptions, which is another example of the sometimes sloppy reporting by Crux.*
+- '*As we have said in some of those past rulings... Crux’s reporting has repeatedly crossed the line, especially in its failure to separate fact and comment.*'
+- '*Most concerning is Crux’s inaccurate reporting... It seems Crux made assumptions, which is another example of the sometimes sloppy reporting by Crux.*'
 
 - **Queenstown Lakes District Council v Crux Publishing** — Case 3338
-- *A clear distinction should be drawn between factual information and comment or opinion. An article that is essentially comment or opinion should be clearly presented as such.*
+- '*A clear distinction should be drawn between factual information and comment or opinion. An article that is essentially comment or opinion should be clearly presented as such.*'
 
 - **Andrew Tipene v Crux (2022)** — Case 3356
 - Principle 1 (accuracy, fairness and balance) **complaint upheld**
 - Principle 6 (headlines and captions) **complaint upheld**
 - The Media Council again wrote: *as we have previously noted... Crux must ensure that it meets journalistic standards.*
 
-The pattern is clear: when Newport's work is tested against standards of factual accuracy, complaints are upheld. When his articles are shielded as "opinion," they survive. The Media Council has repeatedly warned Crux to meet ethical journalistic standards. To give context:
+The pattern is clear: when Newport's work is tested against standards of factual accuracy, complaints are upheld. When his articles are shielded as "opinion," they survive. The Media Council has repeatedly noted ethical journalistic standards in responce to Crux reporting. 
 
 ## Trying to silence rivals
 
@@ -63,4 +64,4 @@ Self reflect, if you angry or outraged when you read Crux, then please learn mor
 
 ## The verdict
 
-Peter Newport continues to style himself as an investigative journalist. But investigative reporting requires rigorous fact-checking, fairness, and a clear distinction between fact and opinion. Newport's record shows repeated failures on those measures, rescued only when his work is categorised as opinion. His own complaint against ODT collapsed under scrutiny. And with a paywall in place, his incentive is to produce headlines that spark outrage, not balance.
+Crux continues to style itself a investigative journalism. But investigative reporting requires rigorous fact-checking, fairness, and a clear distinction between fact and opinion. Crux's record shows repeated failures on those measures, rescued only when his work is categorised as opinion. His own complaint against ODT collapsed under scrutiny. And with a paywall in place, his incentive is to produce headlines that spark outrage, not balance.
